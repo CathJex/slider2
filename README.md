@@ -1,2 +1,2 @@
 # slider2
-Slider for GEUS Bulletin with 4s autoplay
+Slider for GEUS Bulletin with meta data and 4s autoplay
